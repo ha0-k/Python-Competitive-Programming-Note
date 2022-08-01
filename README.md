@@ -1,1 +1,1 @@
-# Python-Competitive-Programming-Note
+# Python-Competitive-Programming
